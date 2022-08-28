@@ -2,6 +2,8 @@
 
 ## Overview
 
+The purpose of this analysis is to provide summary statistics regarding weather measurements from Oahu, Hawaii, which are stored in a SQLite database. The summary statistics for the months of June and Decemeber are of specific interest and will be used to inform a decision about the possibility of opening a business in Oahu, Hawaii. 
+
 ## Results
 
 The summary statistics for the month of June can be found here:
