@@ -12,4 +12,6 @@ The summary statistics for the month of December can be found here:
 
 <img width="174" alt="dec_summary" src="https://user-images.githubusercontent.com/107224097/186991441-a985997f-c276-49fb-b678-74ae5a270d82.PNG">
 
+There are some key differences between the weather patterns for June and December. Specifically, the mean temperature for the month of December is nearly 4 degrees cooler than the mean temperature for the month of June. Additionally, The max temperature for the month of December is two degrees cooler than the max temperature for the month of June. The biggest difference between the summary statistics for June and December is the minimum temperature. The minimum temperature in December is 8 degrees cooler than the minimum temperature for the month of June. 
+
 ## Summary
